@@ -1,4 +1,4 @@
-# CodeClause_Brain-Tumor-Detection
+# CodeClause_Tasks
 
 Task Given: There are many famous deep learning projects on MRI scan 
 dataset. One of them is Brain Tumor detection. You can use transfer learning 
